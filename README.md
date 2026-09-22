@@ -1,2 +1,2 @@
 # Blogicum
-Developing a web-site for blogs
+Developing a website for blogs
